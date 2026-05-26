@@ -1,7 +1,6 @@
 # 💫 About Me:
 - Passionate about robotics, control, and embedded systems
 - Building real-time control systems with ROS 2 and MuJoCo
-- Experience in FPGA design, VHDL, and digital logic
 - Working on dexterous robtotic hands and surgical tools
 
 
